@@ -412,7 +412,7 @@ int main() {
         cout << "baecm";
         cout << "rysmy";
         cout << "wesnb";
-        cout << "ynxdn";
-        cout << "uamcr";
+        cout << "lvvos";
+        cout << "lgtns";
 return 0;
 }

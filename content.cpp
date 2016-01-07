@@ -747,7 +747,7 @@ int main() {
         cout << "djyjv";
         cout << "abtme";
         cout << "rsnlk";
-        cout << "ojpfk";
-        cout << "mhbml";
+        cout << "mjadt";
+        cout << "ormge";
 return 0;
 }

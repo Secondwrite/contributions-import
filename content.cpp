@@ -1019,18 +1019,8 @@ int main() {
         cout << "qjxkm";
         cout << "ateyx";
         cout << "vvkcm";
-        cout << "fmpea";
-        cout << "hxhdm";
-        cout << "cbqaa";
-        cout << "ptsfg";
-        cout << "xiclq";
-        cout << "nijde";
-        cout << "psxfn";
-        cout << "rhtrv";
-        cout << "ykmkl";
-        cout << "rwiua";
-        cout << "ivoty";
-        cout << "nndnu";
-        cout << "revim";
+        cout << "rcdaa";
+        cout << "ymynx";
+        cout << "nricb";
 return 0;
 }

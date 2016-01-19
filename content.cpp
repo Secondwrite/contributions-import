@@ -1072,8 +1072,10 @@ int main() {
         cout << "njgho";
         cout << "ppwvv";
         cout << "gouwl";
-        cout << "kvmbt";
-        cout << "kkedw";
-        cout << "ifjfr";
+        cout << "crhol";
+        cout << "ttjil";
+        cout << "iwnyv";
+        cout << "anyym";
+        cout << "eleou";
 return 0;
 }

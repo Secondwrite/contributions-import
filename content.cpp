@@ -1495,7 +1495,8 @@ int main() {
         cout << "mhfkf";
         cout << "safyl";
         cout << "tdcct";
-        cout << "eroqw";
-        cout << "duali";
+        cout << "mjits";
+        cout << "dewaa";
+        cout << "wbgkg";
 return 0;
 }

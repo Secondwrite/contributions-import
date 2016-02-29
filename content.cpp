@@ -1382,21 +1382,5 @@ int main() {
         cout << "hokjt";
         cout << "iteai";
         cout << "ldydt";
-        cout << "qslbx";
-        cout << "jfygj";
-        cout << "ggrev";
-        cout << "jhrdj";
-        cout << "tcqgb";
-        cout << "vwxkw";
-        cout << "vrrbp";
-        cout << "sjnrt";
-        cout << "hefjh";
-        cout << "utvrg";
-        cout << "xlphl";
-        cout << "ncqcb";
-        cout << "lhgqy";
-        cout << "wglds";
-        cout << "ncngr";
-        cout << "fdggq";
 return 0;
 }

@@ -1291,16 +1291,5 @@ int main() {
         cout << "bqbkl";
         cout << "diujj";
         cout << "pwvlk";
-        cout << "khukt";
-        cout << "ifhlp";
-        cout << "ibbgq";
-        cout << "aynek";
-        cout << "mjhje";
-        cout << "lksew";
-        cout << "mrtxj";
-        cout << "ymnay";
-        cout << "fumth";
-        cout << "gqhtb";
-        cout << "bfbfc";
 return 0;
 }

@@ -1275,19 +1275,6 @@ int main() {
         cout << "cwwtu";
         cout << "eujxe";
         cout << "yvkwm";
-        cout << "mmypg";
-        cout << "xtwsv";
-        cout << "uhkgg";
-        cout << "rvjxv";
-        cout << "nxxkc";
-        cout << "ucajo";
-        cout << "wqhli";
-        cout << "rpdvh";
-        cout << "eyeyv";
-        cout << "qdwum";
-        cout << "ofkoy";
-        cout << "snibm";
-        cout << "qaohi";
-        cout << "kqhqe";
+        cout << "oyqfu";
 return 0;
 }

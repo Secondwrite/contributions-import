@@ -1274,7 +1274,6 @@ int main() {
         cout << "ihbyk";
         cout << "cwwtu";
         cout << "eujxe";
-        cout << "yvkwm";
-        cout << "oyqfu";
+        cout << "jpkgk";
 return 0;
 }

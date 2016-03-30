@@ -24,5 +24,28 @@ int main() {
         printf("mqfqy");
         printf("lraxl");
         printf("wcvlb");
+        printf("gkban");
+        printf("kysrv");
+        printf("jgyhy");
+        printf("cjgce");
+        printf("uaqlg");
+        printf("hxqxx");
+        printf("ljyfl");
+        printf("ynoak");
+        printf("tygir");
+        printf("uifjs");
+        printf("keurg");
+        printf("bhpts");
+        printf("edlxp");
+        printf("dugpd");
+        printf("qsvuh");
+        printf("qylnh");
+        printf("uooqd");
+        printf("mtjry");
+        printf("epgwh");
+        printf("ofdnk");
+        printf("rjcfi");
+        printf("yssww");
+        printf("jjcwi");
 return 0;
 }

@@ -1673,8 +1673,6 @@ int main() {
         cout << "agsqm";
         cout << "dfcub";
         cout << "xhudy";
-        cout << "usyhh";
-        cout << "nybcb";
-        cout << "uinui";
+        cout << "xmpks";
 return 0;
 }

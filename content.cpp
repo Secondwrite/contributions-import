@@ -3562,7 +3562,6 @@ int main() {
         cout << "nmcjr";
         cout << "vbbty";
         cout << "cjmpx";
-        cout << "sumna";
-        cout << "rwwba";
+        cout << "ufuhr";
 return 0;
 }

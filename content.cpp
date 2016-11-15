@@ -3463,10 +3463,6 @@ int main() {
         cout << "waxkd";
         cout << "xttnv";
         cout << "hdija";
-        cout << "wpgob";
-        cout << "nehca";
-        cout << "shmyn";
-        cout << "ryfvw";
-        cout << "qbdst";
+        cout << "xdrmp";
 return 0;
 }

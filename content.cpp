@@ -3776,9 +3776,7 @@ int main() {
         cout << "idmqk";
         cout << "qdqnc";
         cout << "eprtp";
-        cout << "nhnsy";
-        cout << "opkfr";
-        cout << "tgejn";
-        cout << "tqiqa";
+        cout << "hblec";
+        cout << "qubsr";
 return 0;
 }

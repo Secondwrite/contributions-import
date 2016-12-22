@@ -4640,7 +4640,7 @@ int main() {
         cout << "khqpc";
         cout << "jsvyy";
         cout << "mnogl";
-        cout << "yjdug";
-        cout << "qhhef";
+        cout << "arslc";
+        cout << "nbqac";
 return 0;
 }

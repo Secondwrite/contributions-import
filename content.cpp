@@ -4703,6 +4703,5 @@ int main() {
         cout << "khlwq";
         cout << "vutfr";
         cout << "myjas";
-        cout << "ptpkb";
 return 0;
 }

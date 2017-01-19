@@ -4799,9 +4799,18 @@ int main() {
         cout << "uswts";
         cout << "asisp";
         cout << "awqca";
-        cout << "gibsh";
-        cout << "uhaha";
-        cout << "cekjt";
-        cout << "pxffb";
+        cout << "rbwai";
+        cout << "qxsor";
+        cout << "wlrcu";
+        cout << "owcbs";
+        cout << "furdo";
+        cout << "gglhu";
+        cout << "ehbdi";
+        cout << "pstjk";
+        cout << "uahps";
+        cout << "opllt";
+        cout << "ggwlf";
+        cout << "mxrxi";
+        cout << "lolin";
 return 0;
 }

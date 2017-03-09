@@ -34,5 +34,5 @@ SELECT * from akvne;
 SELECT * from wclfd;
 SELECT * from kthsl;
 SELECT * from qwowl;
-SELECT * from wwpin;
-SELECT * from jqwib;
+SELECT * from laucd;
+SELECT * from bglhx;

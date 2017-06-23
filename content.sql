@@ -36,5 +36,5 @@ SELECT * from egjfp;
 SELECT * from ajpqw;
 SELECT * from hlvex;
 SELECT * from bpdtm;
-SELECT * from wwkra;
-SELECT * from qfbkl;
+SELECT * from nmsxp;
+SELECT * from xqcov;

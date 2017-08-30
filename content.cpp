@@ -6811,7 +6811,7 @@ int main() {
         cout << "pjrtw";
         cout << "jrmiq";
         cout << "ickes";
-        cout << "oduek";
-        cout << "nygvm";
+        cout << "mmgnk";
+        cout << "vwmry";
 return 0;
 }

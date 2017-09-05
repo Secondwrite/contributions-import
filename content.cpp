@@ -6805,13 +6805,8 @@ int main() {
         cout << "nluhp";
         cout << "xeqfk";
         cout << "oybae";
-        cout << "pqwwd";
-        cout << "qatqo";
-        cout << "gdrmy";
-        cout << "pjrtw";
-        cout << "jrmiq";
-        cout << "ickes";
-        cout << "mmgnk";
-        cout << "vwmry";
+        cout << "ktcwv";
+        cout << "enuks";
+        cout << "vowmu";
 return 0;
 }

@@ -112,3 +112,5 @@ SELECT * from tnkcl;
 SELECT * from kqtxr;
 SELECT * from objia;
 SELECT * from bvcxm;
+SELECT * from isqqc;
+SELECT * from phgtl;

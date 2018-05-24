@@ -116,3 +116,5 @@ SELECT * from isqqc;
 SELECT * from phgtl;
 SELECT * from yikbp;
 SELECT * from kmccn;
+SELECT * from rcmps;
+SELECT * from lidkx;

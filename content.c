@@ -447,13 +447,5 @@ int main() {
         printf("fwgwh");
         printf("ddeil");
         printf("hqgam");
-        printf("ogarh");
-        printf("hbddb");
-        printf("lmjhy");
-        printf("wvuar");
-        printf("dvqqf");
-        printf("lxpgp");
-        printf("nnmrj");
-        printf("xqomi");
 return 0;
 }

@@ -172,5 +172,6 @@ SELECT * from gdskt;
 SELECT * from mwjmh;
 SELECT * from vrsvn;
 SELECT * from danev;
-SELECT * from nvruw;
-SELECT * from uvdpx;
+SELECT * from ihhfx;
+SELECT * from cfpri;
+SELECT * from cgper;

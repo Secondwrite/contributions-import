@@ -288,4 +288,4 @@ SELECT * from udcmm;
 SELECT * from ikegy;
 SELECT * from xunbp;
 SELECT * from rvmid;
-SELECT * from ygqcg;
+SELECT * from nyckg;

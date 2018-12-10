@@ -289,3 +289,4 @@ SELECT * from ikegy;
 SELECT * from xunbp;
 SELECT * from rvmid;
 SELECT * from nyckg;
+SELECT * from tqexd;

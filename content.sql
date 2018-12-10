@@ -290,3 +290,4 @@ SELECT * from xunbp;
 SELECT * from rvmid;
 SELECT * from nyckg;
 SELECT * from tqexd;
+SELECT * from ysowd;

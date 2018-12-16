@@ -315,3 +315,5 @@ SELECT * from ymjgh;
 SELECT * from asuwf;
 SELECT * from gkldd;
 SELECT * from enkew;
+SELECT * from dhxmy;
+SELECT * from ujnmy;

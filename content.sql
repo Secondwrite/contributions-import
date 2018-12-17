@@ -315,5 +315,5 @@ SELECT * from erogt;
 SELECT * from rwfpf;
 SELECT * from veljg;
 SELECT * from huyng;
-SELECT * from mikjj;
-SELECT * from cryqk;
+SELECT * from btepx;
+SELECT * from ooild;

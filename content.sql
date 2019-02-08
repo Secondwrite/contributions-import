@@ -443,4 +443,6 @@ SELECT * from wifkb;
 SELECT * from vsxtl;
 SELECT * from yjfdb;
 SELECT * from qklpt;
-SELECT * from ennip;
+SELECT * from alcby;
+SELECT * from acwmw;
+SELECT * from lqief;

@@ -467,3 +467,4 @@ SELECT * from wpvci;
 SELECT * from wgejl;
 SELECT * from khglv;
 SELECT * from dnrwj;
+SELECT * from ijkbl;

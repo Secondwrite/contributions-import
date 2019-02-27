@@ -471,3 +471,4 @@ SELECT * from ijkbl;
 SELECT * from wwhyy;
 SELECT * from fadnr;
 SELECT * from njdwi;
+SELECT * from xywwg;

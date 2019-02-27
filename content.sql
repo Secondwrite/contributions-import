@@ -469,3 +469,4 @@ SELECT * from khglv;
 SELECT * from dnrwj;
 SELECT * from ijkbl;
 SELECT * from wwhyy;
+SELECT * from fadnr;

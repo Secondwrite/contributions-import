@@ -424,28 +424,5 @@ int main() {
         printf("ipjss");
         printf("ophws");
         printf("ywemd");
-        printf("ntinc");
-        printf("idhwm");
-        printf("cpbvx");
-        printf("duixk");
-        printf("viufe");
-        printf("egice");
-        printf("toefj");
-        printf("sjuur");
-        printf("snmfx");
-        printf("ixupb");
-        printf("kfvov");
-        printf("ejwuj");
-        printf("yqjck");
-        printf("imqwl");
-        printf("prdns");
-        printf("fwddy");
-        printf("ifgbs");
-        printf("faoli");
-        printf("fyoij");
-        printf("dvsmp");
-        printf("ffrex");
-        printf("eqhdt");
-        printf("hgooh");
 return 0;
 }

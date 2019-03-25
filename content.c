@@ -401,28 +401,5 @@ int main() {
         printf("wkqjs");
         printf("vagpf");
         printf("jcfsl");
-        printf("htsbk");
-        printf("tuqkp");
-        printf("hbmkw");
-        printf("ugpae");
-        printf("xpxqs");
-        printf("bbbbm");
-        printf("jckku");
-        printf("vcusv");
-        printf("cwxhj");
-        printf("kogjh");
-        printf("clowi");
-        printf("wbxkv");
-        printf("klfsm");
-        printf("qheed");
-        printf("ebcir");
-        printf("omttt");
-        printf("cxnhr");
-        printf("gulwt");
-        printf("busbg");
-        printf("qbksd");
-        printf("ipjss");
-        printf("ophws");
-        printf("ywemd");
 return 0;
 }

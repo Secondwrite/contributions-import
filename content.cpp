@@ -8002,8 +8002,5 @@ int main() {
         cout << "cfsbh";
         cout << "kiojb";
         cout << "huyfv";
-        cout << "jkdae";
-        cout << "pqtjd";
-        cout << "dpqtd";
 return 0;
 }

@@ -1789,9 +1789,23 @@
   line-height: 24px;
   margin-bottom: 94px;
   margin-right: 3px;
-  font-size: 28px;
-  border-top-width: 30px;
-  font-size: 31px;
-  border-top-width: 77px;
-  padding-top: 37px;
+  margin-right: 16px;
+  padding-right: 35px;
+  border-left-width: 93px;
+  border-bottom-width: 68px;
+  padding-left: 75px;
+  padding-right: 73px;
+  padding-left: 53px;
+  border-bottom-width: 5px;
+  margin-left: 5px;
+  margin-right: 69px;
+  border-top-width: 21px;
+  padding-top: 41px;
+  padding-left: 49px;
+  margin-top: 59px;
+  font-size: 83px;
+  margin-right: 56px;
+  padding-right: 20px;
+  margin-left: 50px;
+  margin-right: 98px;
 }

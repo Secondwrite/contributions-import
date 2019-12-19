@@ -486,11 +486,16 @@ int main() {
         printf("jekhh");
         printf("viasx");
         printf("sjpuh");
-        printf("uwewo");
-        printf("xlvhw");
-        printf("uopbb");
-        printf("vtkqs");
-        printf("hxfgw");
-        printf("cexnn");
+        printf("wydgu");
+        printf("xknew");
+        printf("yvwwe");
+        printf("jafxh");
+        printf("aujco");
+        printf("vkhnd");
+        printf("xweso");
+        printf("rqrer");
+        printf("lkqkl");
+        printf("lpbcv");
+        printf("ecufp");
 return 0;
 }

@@ -686,3 +686,5 @@ SELECT * from tuvvp;
 SELECT * from tcnfv;
 SELECT * from vaffw;
 SELECT * from acucw;
+SELECT * from xxpna;
+SELECT * from wlhoi;

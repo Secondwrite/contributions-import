@@ -1121,3 +1121,4 @@ SELECT * from vlqpg;
 SELECT * from focan;
 SELECT * from odrtl;
 SELECT * from ojnls;
+SELECT * from anopc;

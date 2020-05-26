@@ -946,4 +946,4 @@ SELECT * from eeool;
 SELECT * from gtrin;
 SELECT * from bwccd;
 SELECT * from qmuxq;
-SELECT * from trtuc;
+SELECT * from bitqa;

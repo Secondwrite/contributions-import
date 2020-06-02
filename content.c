@@ -765,5 +765,8 @@ int main() {
         printf("vrprp");
         printf("kkhob");
         printf("jqwjn");
+        printf("clrws");
+        printf("lsrnj");
+        printf("hkfxf");
 return 0;
 }

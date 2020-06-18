@@ -1328,3 +1328,5 @@ SELECT * from gjdcd;
 SELECT * from rvuws;
 SELECT * from mxltf;
 SELECT * from tncmw;
+SELECT * from cghtm;
+SELECT * from icsyi;

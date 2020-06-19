@@ -1330,3 +1330,5 @@ SELECT * from mxltf;
 SELECT * from tncmw;
 SELECT * from cghtm;
 SELECT * from icsyi;
+SELECT * from uisft;
+SELECT * from mdued;

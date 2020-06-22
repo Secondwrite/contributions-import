@@ -1332,3 +1332,5 @@ SELECT * from cghtm;
 SELECT * from icsyi;
 SELECT * from uisft;
 SELECT * from mdued;
+SELECT * from qrudl;
+SELECT * from rfsnk;

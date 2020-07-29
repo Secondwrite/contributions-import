@@ -1334,3 +1334,8 @@ SELECT * from uisft;
 SELECT * from mdued;
 SELECT * from qrudl;
 SELECT * from rfsnk;
+SELECT * from jvpny;
+SELECT * from jnjmt;
+SELECT * from oeflx;
+SELECT * from gejqq;
+SELECT * from betit;

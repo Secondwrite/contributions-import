@@ -1339,3 +1339,8 @@ SELECT * from jnjmt;
 SELECT * from oeflx;
 SELECT * from gejqq;
 SELECT * from betit;
+SELECT * from ygyia;
+SELECT * from jmalu;
+SELECT * from cyihl;
+SELECT * from brwxb;
+SELECT * from buokc;

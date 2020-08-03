@@ -1344,3 +1344,8 @@ SELECT * from jmalu;
 SELECT * from cyihl;
 SELECT * from brwxb;
 SELECT * from buokc;
+SELECT * from gcesi;
+SELECT * from upaiy;
+SELECT * from dsohg;
+SELECT * from vcxud;
+SELECT * from hcgql;

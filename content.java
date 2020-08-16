@@ -81,24 +81,12 @@ public class Cdxujx {
         System.out.println("yitcs");
         System.out.println("fkdcd");
         System.out.println("sujro");
-        System.out.println("nkuje");
-        System.out.println("nbvnt");
-        System.out.println("jwkfw");
-        System.out.println("jqhjo");
-        System.out.println("ldlql");
-        System.out.println("innfg");
-        System.out.println("egmqu");
-        System.out.println("chkyi");
-        System.out.println("bibgd");
-        System.out.println("pkpek");
-        System.out.println("ypxbs");
-        System.out.println("rmgrb");
-        System.out.println("wjbkm");
-        System.out.println("prklt");
-        System.out.println("uxobk");
-        System.out.println("mewie");
-        System.out.println("wdkri");
-        System.out.println("etvoc");
-        System.out.println("mdwqb");
+        System.out.println("blvlx");
+        System.out.println("tbaxw");
+        System.out.println("kicrm");
+        System.out.println("pfull");
+        System.out.println("vjtdc");
+        System.out.println("dryuh");
+        System.out.println("kulwe");
     }
 }

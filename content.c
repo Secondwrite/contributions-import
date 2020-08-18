@@ -868,9 +868,10 @@ int main() {
         printf("cqrig");
         printf("dxquq");
         printf("suaka");
-        printf("bwkuf");
-        printf("nigqm");
-        printf("dmhfi");
-        printf("mtrst");
+        printf("nsmve");
+        printf("beaxx");
+        printf("bqvlu");
+        printf("tjmbq");
+        printf("jjrpj");
 return 0;
 }

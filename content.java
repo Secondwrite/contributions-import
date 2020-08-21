@@ -87,6 +87,5 @@ public class Cdxujx {
         System.out.println("pfull");
         System.out.println("vjtdc");
         System.out.println("dryuh");
-        System.out.println("kulwe");
     }
 }

@@ -1257,8 +1257,8 @@ int main() {
         printf("dmooy");
         printf("trnes");
         printf("vcabr");
-        printf("flvnh");
-        printf("jofoh");
-        printf("fyijv");
+        printf("moxwy");
+        printf("lhmje");
+        printf("keady");
 return 0;
 }

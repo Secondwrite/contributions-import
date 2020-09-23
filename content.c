@@ -1260,9 +1260,5 @@ int main() {
         printf("flvnh");
         printf("jofoh");
         printf("fyijv");
-        printf("eqrog");
-        printf("vgjjl");
-        printf("elyye");
-        printf("wbrvs");
 return 0;
 }

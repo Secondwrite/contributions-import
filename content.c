@@ -1258,7 +1258,5 @@ int main() {
         printf("trnes");
         printf("vcabr");
         printf("moxwy");
-        printf("lhmje");
-        printf("keady");
 return 0;
 }

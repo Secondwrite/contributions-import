@@ -1258,5 +1258,11 @@ int main() {
         printf("trnes");
         printf("vcabr");
         printf("moxwy");
+        printf("baofg");
+        printf("qoxwy");
+        printf("rcgiw");
+        printf("stuaj");
+        printf("mcujk");
+        printf("offwj");
 return 0;
 }

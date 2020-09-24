@@ -1255,14 +1255,14 @@ int main() {
         printf("awrpj");
         printf("tkgbb");
         printf("dmooy");
-        printf("trnes");
-        printf("vcabr");
-        printf("moxwy");
-        printf("baofg");
-        printf("qoxwy");
-        printf("rcgiw");
-        printf("stuaj");
-        printf("mcujk");
-        printf("offwj");
+        printf("lsnei");
+        printf("rmfco");
+        printf("tcqik");
+        printf("xwrpg");
+        printf("ymvxh");
+        printf("ajqns");
+        printf("qqsqx");
+        printf("acnkd");
+        printf("xywjc");
 return 0;
 }

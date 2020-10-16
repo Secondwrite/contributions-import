@@ -1284,8 +1284,7 @@ int main() {
         printf("wspdi");
         printf("fodeu");
         printf("elnpr");
-        printf("thslc");
-        printf("neurg");
-        printf("smfdu");
+        printf("mresy");
+        printf("nfhvp");
 return 0;
 }

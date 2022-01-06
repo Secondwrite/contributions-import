@@ -1493,7 +1493,15 @@ int main() {
         printf("aeqlo");
         printf("grhxr");
         printf("etdnt");
-        printf("vlqrr");
-        printf("bcbrg");
+        printf("hrnlu");
+        printf("isugg");
+        printf("wroqh");
+        printf("wsmre");
+        printf("wgjcy");
+        printf("debym");
+        printf("nkyne");
+        printf("naqtq");
+        printf("akxxj");
+        printf("bbqcs");
 return 0;
 }

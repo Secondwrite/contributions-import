@@ -1587,3 +1587,4 @@ SELECT * from wdwie;
 SELECT * from wxdpo;
 SELECT * from hwxhi;
 SELECT * from fljpv;
+SELECT * from bwarc;

@@ -10016,7 +10016,7 @@ int main() {
         cout << "yitue";
         cout << "ldmea";
         cout << "bxtbv";
-        cout << "omuta";
-        cout << "fibjm";
+        cout << "qyfmt";
+        cout << "rndeq";
 return 0;
 }

@@ -1639,3 +1639,7 @@ SELECT * from otitm;
 SELECT * from vykcr;
 SELECT * from teity;
 SELECT * from vpjrj;
+SELECT * from pjjjt;
+SELECT * from laefb;
+SELECT * from mluyq;
+SELECT * from nercs;

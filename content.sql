@@ -1643,3 +1643,5 @@ SELECT * from nmhvl;
 SELECT * from sqmoe;
 SELECT * from mastp;
 SELECT * from vhthx;
+SELECT * from hwrio;
+SELECT * from fgibj;
